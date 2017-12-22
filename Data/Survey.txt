@@ -1,0 +1,3 @@
+1) Do you work ? : Office
+2) Do you consume alcohol ? : Daily
+3) Your daily water intake ? : Less than 1L per day

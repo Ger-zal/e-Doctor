@@ -1,0 +1,10 @@
+At17:15:7 you have been in non-defined position
+At17:15:9 you have been in Left lateral decubitus
+At17:15:11 you have been in Supine position
+At17:15:13 you have been in Left lateral decubitus
+At17:15:15 you have been in Stand or sit position
+At17:15:18 you have been in non-defined position
+At17:15:20 you have been in Prone position
+At17:15:22 you have been in non-defined position
+At17:15:24 you have been in Left lateral decubitus
+At17:15:26 you have been in Rigth lateral decubitus

@@ -1,0 +1,1 @@
+g++ -lpthread -lrt temperature.cpp arduPi.cpp eHealth.cpp -o temperature && sudo ./temperature
